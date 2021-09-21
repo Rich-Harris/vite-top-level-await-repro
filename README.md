@@ -1,6 +1,6 @@
 # vite-top-level-await-repro
 
-Illustration of issues around use of top-level await in Vite apps
+Illustration of issues around use of top-level await in Vite apps: https://github.com/vitejs/vite/issues/5013
 
 ## Top-level await doesn't work in SSR
 
